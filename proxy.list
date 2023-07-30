@@ -1,0 +1,44 @@
+# 开发需要规则==========================
+# alfred
+DOMAIN-SUFFIX,alfred.app
+# gitbook
+DOMAIN-SUFFIX,gitbook.io
+# nginx
+DOMAIN-SUFFIX,nginx.com
+# develop-k8s
+DOMAIN-SUFFIX,asia-east1-docker.pkg.dev
+DOMAIN-SUFFIX,registry.k8s.io
+#debian
+DOMAIN-SUFFIX,debian.org
+# setapp
+DOMAIN-SUFFIX,setapp.com
+# skill map
+DOMAIN-SUFFIX,roadmap.sh
+# gitlab
+DOMAIN-SUFFIX,gitlab.com
+# maven
+DOMAIN-SUFFIX,maven.apache.org
+# jetbrains.com
+DOMAIN-SUFFIX,jetbrains.com
+# docker
+DOMAIN-SUFFIX,docker.com
+# ====================================
+# 软件推荐的那个网站
+DOMAIN-SUFFIX,altapps.net
+# Omni系列软件
+DOMAIN-SUFFIX,omnigroup.com
+# microsoft
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,live.com
+# Notion
+DOMAIN-SUFFIX,notion.so
+# wikihow
+DOMAIN-SUFFIX,wikihow.com
+# spotify
+DOMAIN-SUFFIX,spotifycdn.com
+# surge
+DOMAIN-SUFFIX,nssurge.com
+# cleanmymac
+DOMAIN-SUFFIX,paw.cloud
+# brew
+DOMAIN-SUFFIX,brew.sh
