@@ -1,0 +1,122 @@
+# 米哈游
+DOMAIN-SUFFIX,mihoyo.com
+# 腾讯系
+DOMAIN-SUFFIX,qq.com
+# 微博系
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,weibo.cn
+DOMAIN-SUFFIX,weibocdn.com
+# 百度系
+# 阿里系
+DOMAIN-SUFFIX,taobao.com
+# 腾讯系
+# 京东系
+DOMAIN-SUFFIX,jd.com
+# 抖音
+DOMAIN-SUFFIX,douyin.com
+# 茶杯狐
+DOMAIN-SUFFIX,cupfox.app
+# AGE
+DOMAIN-SUFFIX,agemys.net
+# 嘀哩嘀哩
+DOMAIN-SUFFIX,dilidili9.com
+#小说
+DOMAIN-SUFFIX,xs26.com
+DOMAIN-SUFFIX,58xs8.com
+DOMAIN-SUFFIX,xbiquge.so
+#
+DOMAIN-SUFFIX,mail.yahoo.com
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,pinterest.com
+DOMAIN-SUFFIX,tumblr.com
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,vine.co
+DOMAIN-SUFFIX,flickr.com
+DOMAIN-SUFFIX,meetup.com
+DOMAIN-SUFFIX,ask.fm
+DOMAIN-SUFFIX,news.ycombinator.com
+DOMAIN-SUFFIX,slashdot.org
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,digg.com
+DOMAIN-SUFFIX,techmeme.com
+DOMAIN-SUFFIX,producthunt.com
+DOMAIN-SUFFIX,fark.com
+DOMAIN-SUFFIX,popurls.com
+DOMAIN-SUFFIX,metafilter.com
+DOMAIN-SUFFIX,quora.com
+DOMAIN-SUFFIX,medium.com
+DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,youtube.com,PROXY
+DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,imgur.com
+DOMAIN-SUFFIX,vimeo.com
+DOMAIN-SUFFIX,ted.com
+DOMAIN-SUFFIX,blogger.com
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,deviantart.com
+DOMAIN-SUFFIX,break.com
+DOMAIN-SUFFIX,collegehumor.com
+DOMAIN-SUFFIX,funnyordie.com
+DOMAIN-SUFFIX,liveleak.com
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,soundcloud.com
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,blockchain.info
+DOMAIN-SUFFIX,coinmarketcap.com
+DOMAIN-SUFFIX,ebay.com
+DOMAIN-SUFFIX,craigslist.org
+DOMAIN-SUFFIX,etsy.com
+DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,techcrunch.com
+DOMAIN-SUFFIX,mashable.com
+DOMAIN-SUFFIX,engadget.com
+DOMAIN-SUFFIX,gizmodo.com
+DOMAIN-SUFFIX,gigaom.com
+DOMAIN-SUFFIX,boingboing.net
+DOMAIN-SUFFIX,wired.com
+DOMAIN-SUFFIX,theverge.com
+DOMAIN-SUFFIX,lifehacker.com
+DOMAIN-SUFFIX,readwrite.com
+DOMAIN-SUFFIX,recode.net
+DOMAIN-SUFFIX,arstechnica.com
+DOMAIN-SUFFIX,macrumors.com
+DOMAIN-SUFFIX,tomshardware.com
+DOMAIN-SUFFIX,thenextweb.com
+DOMAIN-SUFFIX,9to5mac.com
+DOMAIN-SUFFIX,zdnet.com
+DOMAIN-SUFFIX,venturebeat.com
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,forbes.com
+DOMAIN-SUFFIX,economist.com
+DOMAIN-SUFFIX,nbcnews.com
+DOMAIN-SUFFIX,yahoo.com
+DOMAIN-SUFFIX,nytimes.com
+DOMAIN-SUFFIX,bloomberg.com
+DOMAIN-SUFFIX,usatoday.com
+DOMAIN-SUFFIX,washingtonpost.com
+DOMAIN-SUFFIX,theguardian.com
+DOMAIN-SUFFIX,npr.org
+DOMAIN-SUFFIX,wsj.com
+DOMAIN-SUFFIX,time.com
+DOMAIN-SUFFIX,news.google.com
+DOMAIN-SUFFIX,cnet.com
+DOMAIN-SUFFIX,cnbc.com
+DOMAIN-SUFFIX,bleacherreport.com
+DOMAIN-SUFFIX,espn.com
+DOMAIN-SUFFIX,foxsports.com
+DOMAIN-SUFFIX,cbssports.com
+DOMAIN-SUFFIX,mlb.com
+DOMAIN-SUFFIX,nfl.com
+DOMAIN-SUFFIX,nhl.com
+DOMAIN-SUFFIX,nba.com
+DOMAIN-SUFFIX,foxnews.com
+DOMAIN-SUFFIX,cnn.com
+DOMAIN-SUFFIX,msnbc.com
+DOMAIN-SUFFIX,huffingtonpost.com
+DOMAIN-SUFFIX,businessinsider.com
+DOMAIN-SUFFIX,buzzfeed.com
+DOMAIN-SUFFIX,theonion.com
+DOMAIN-SUFFIX,cracked.com
+DOMAIN-SUFFIX,tmz.com
+DOMAIN-SUFFIX,vice.com
