@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,wikihow.com
 # spotify
 DOMAIN-SUFFIX,spotifycdn.com
+DOMAIN-SUFFIX,scdn.co
 # surge
 DOMAIN-SUFFIX,nssurge.com
 # cleanmymac
