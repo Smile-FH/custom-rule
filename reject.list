@@ -1,7 +1,7 @@
 # 米哈游
 DOMAIN-SUFFIX,mihoyo.com
 # 腾讯系
-DOMAIN-SUFFIX,qq.com
+# DOMAIN-SUFFIX,qq.com
 # 微博系
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weibo.cn
