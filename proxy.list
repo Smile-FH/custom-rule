@@ -22,6 +22,8 @@ DOMAIN-SUFFIX,maven.apache.org
 DOMAIN-SUFFIX,jetbrains.com
 # docker
 DOMAIN-SUFFIX,docker.com
+# sdkman
+DOMAIN-SUFFIX,sdkman.io
 # ====================================
 # 软件推荐的那个网站
 DOMAIN-SUFFIX,altapps.net
