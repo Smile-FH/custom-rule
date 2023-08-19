@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,jd.com
 # 抖音
 DOMAIN-SUFFIX,douyin.com
 # 茶杯狐
-DOMAIN-SUFFIX,cupfox.app
+#DOMAIN-SUFFIX,cupfox.app
 # AGE
 DOMAIN-SUFFIX,agemys.net
 # 嘀哩嘀哩
