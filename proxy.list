@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,roadmap.sh
 DOMAIN-SUFFIX,gitlab.com
 # maven
 DOMAIN-SUFFIX,maven.apache.org
-# Gradle
+# gradle
 DOMAIN-SUFFIX,services.gradle.org
 # jetbrains.com
 DOMAIN-SUFFIX,jetbrains.com
