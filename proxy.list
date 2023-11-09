@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,nginx.com
 DOMAIN-SUFFIX,asia-east1-docker.pkg.dev
 DOMAIN-SUFFIX,registry.k8s.io
 #debian
-DOMAIN-SUFFIX,debian.org
+DOMAIN-KEYWORD,debian
 # setapp
 DOMAIN-SUFFIX,setapp.com
 # skill map
