@@ -38,9 +38,6 @@ DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,notion.so
 # wikihow
 DOMAIN-SUFFIX,wikihow.com
-# spotify
-DOMAIN-SUFFIX,spotifycdn.com
-DOMAIN-SUFFIX,scdn.co
 # surge
 DOMAIN-SUFFIX,nssurge.com
 # cleanmymac
@@ -49,10 +46,15 @@ DOMAIN-SUFFIX,paw.cloud
 DOMAIN-SUFFIX,brew.sh
 # Dynamic Wallpaper club Mac Wallpaper
 DOMAIN-SUFFIX,dynamicwallpaper.club
-# AI
+# blog
 DOMAIN-SUFFIX,zhile.io
+# sms
+DOMAIN-SUFFIX,sms-activate.org
 # 娱乐====================================
 # 影视
 DOMAIN-SUFFIX,mcoun.com
 # 新闻资讯
-DOMAIN-SUFFIX,toutiao.io
+
+# spotify
+DOMAIN-SUFFIX,spotifycdn.com
+DOMAIN-SUFFIX,scdn.co
