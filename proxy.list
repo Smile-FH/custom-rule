@@ -26,6 +26,8 @@ DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,docker.com
 # sdkman
 DOMAIN-SUFFIX,sdkman.io
+# leetcode 
+DOMAIN-SUFFIX,leetcode.com
 # ====================================
 # 软件推荐的那个网站
 DOMAIN-SUFFIX,altapps.net
