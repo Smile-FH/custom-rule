@@ -1,6 +1,7 @@
 # 开发需要规则==========================
 # alfred
 DOMAIN-SUFFIX,alfred.app
+DOMAIN-SUFFIX,alfredapp.com
 # gitbook
 DOMAIN-SUFFIX,gitbook.io
 # nginx
