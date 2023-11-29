@@ -38,7 +38,7 @@ DOMAIN-SUFFIX,omnigroup.com
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,live.com
 # Notion
-DOMAIN-SUFFIX,notion.so
+DOMAIN-KEYWORD,notion
 # Wikihow
 DOMAIN-SUFFIX,wikihow.com
 # Surge
