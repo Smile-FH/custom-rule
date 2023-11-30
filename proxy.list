@@ -58,7 +58,5 @@ DOMAIN-SUFFIX,vmware.com
 # 娱乐====================================
 # 影视
 DOMAIN-SUFFIX,mcoun.com
-# 新闻资讯
-# spotify 大陆可直链
-# DOMAIN-SUFFIX,spotifycdn.com
-# DOMAIN-SUFFIX,scdn.co
+# 游戏
+DOMAIN-KEYWORD,steam
