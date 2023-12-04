@@ -24,7 +24,7 @@ DOMAIN-SUFFIX,services.gradle.org
 # jetbrains.com
 DOMAIN-SUFFIX,jetbrains.com
 # docker
-DOMAIN-SUFFIX,docker.com
+DOMAIN-KEYWORD,docker
 # sdkman
 DOMAIN-SUFFIX,sdkman.io
 # leetcode 
