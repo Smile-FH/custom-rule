@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,asia-east1-docker.pkg.dev
 DOMAIN-SUFFIX,registry.k8s.io
 #debian
 DOMAIN-KEYWORD,debian
+# mongodb
+DOMAIN-SUFFIX,mongodb.com
 # setapp
 DOMAIN-SUFFIX,setapp.com
 # skill map
