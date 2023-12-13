@@ -31,6 +31,8 @@ DOMAIN-KEYWORD,docker
 DOMAIN-SUFFIX,sdkman.io
 # leetcode 
 DOMAIN-SUFFIX,leetcode.com
+# RapidAPI
+DOMAIN-SUFFIX,paw.cloud
 # ====================================
 # 软件推荐的那个网站
 DOMAIN-SUFFIX,altapps.net
