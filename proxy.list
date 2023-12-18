@@ -59,6 +59,8 @@ DOMAIN-SUFFIX,zhile.io
 DOMAIN-SUFFIX,sms-activate.org
 # Vmware
 DOMAIN-SUFFIX,vmware.com
+# 1Password
+DOMAIN-SUFFIX,1password.com
 # 娱乐====================================
 # 影视
 DOMAIN-SUFFIX,mcoun.com
