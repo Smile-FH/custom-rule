@@ -63,6 +63,8 @@ DOMAIN-SUFFIX,vmware.com
 DOMAIN-SUFFIX,1password.com
 # codepen
 DOMAIN-SUFFIX,codepen.io
+# reddit.com
+DOMAIN-SUFFIX,reddit.com
 # 娱乐====================================
 # 影视
 DOMAIN-SUFFIX,mcoun.com
