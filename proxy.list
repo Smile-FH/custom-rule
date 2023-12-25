@@ -33,6 +33,8 @@ DOMAIN-SUFFIX,sdkman.io
 DOMAIN-SUFFIX,leetcode.com
 # RapidAPI
 DOMAIN-SUFFIX,paw.cloud
+# apache.org
+DOMAIN-SUFFIX,apache.org
 # ====================================
 # 软件推荐的那个网站
 DOMAIN-SUFFIX,altapps.net
