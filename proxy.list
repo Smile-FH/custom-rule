@@ -2,8 +2,6 @@
 # alfred
 DOMAIN-SUFFIX,alfred.app
 DOMAIN-SUFFIX,alfredapp.com
-# gitlab
-DOMAIN-KEYWORD,gitlab,HONG KONG | 01
 # gitbook
 DOMAIN-SUFFIX,gitbook.io
 # nginx
