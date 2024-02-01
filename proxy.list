@@ -72,3 +72,5 @@ DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,mcoun.com
 # 游戏
 DOMAIN-KEYWORD,steam
+# money
+DOMAIN-SUFFIX,wiz.money
