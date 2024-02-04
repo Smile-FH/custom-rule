@@ -35,6 +35,8 @@ DOMAIN-SUFFIX,leetcode.com
 DOMAIN-SUFFIX,paw.cloud
 # apache.org
 DOMAIN-SUFFIX,apache.org
+# nodejs
+DOMAIN-SUFFIX,nodejs.org
 # ====================================
 # 软件推荐的那个网站
 DOMAIN-SUFFIX,altapps.net
