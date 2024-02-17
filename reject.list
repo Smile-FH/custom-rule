@@ -3,7 +3,7 @@ DOMAIN-KEYWORD,mihoyo
 # 腾讯系
 # DOMAIN-SUFFIX,qq.com
 # 微博系
-DOMAIN-KEYWORD,weibo
+# DOMAIN-KEYWORD,weibo
 # 百度系
 # 阿里系
 DOMAIN-SUFFIX,taobao.com
