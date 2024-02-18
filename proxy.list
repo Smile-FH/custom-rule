@@ -1,4 +1,6 @@
 # 开发需要规则==========================
+# rust
+DOMAIN-SUFFIX,rust-lang.org
 # alfred
 DOMAIN-SUFFIX,alfred.app
 DOMAIN-SUFFIX,alfredapp.com
