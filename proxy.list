@@ -40,6 +40,8 @@ DOMAIN-SUFFIX,paw.cloud
 DOMAIN-SUFFIX,apache.org
 # nodejs
 DOMAIN-SUFFIX,nodejs.org
+# jquery
+DOMAIN-SUFFIX,jquery.com
 # ====================================
 # 软件推荐的那个网站
 DOMAIN-SUFFIX,altapps.net
