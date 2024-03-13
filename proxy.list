@@ -80,6 +80,8 @@ DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,bionic-reading.com
 # openwrt
 DOMAIN-SUFFIX,openwrt.org
+# agilebits
+DOMAIN-SUFFIX,cache.agilebits.com
 # 娱乐====================================
 # 影视
 DOMAIN-SUFFIX,mcoun.com
