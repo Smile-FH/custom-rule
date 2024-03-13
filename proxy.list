@@ -78,6 +78,8 @@ DOMAIN-SUFFIX,codepen.io
 DOMAIN-SUFFIX,reddit.com
 # reeder
 DOMAIN-SUFFIX,bionic-reading.com
+# openwrt
+DOMAIN-SUFFIX,openwrt.org
 # 娱乐====================================
 # 影视
 DOMAIN-SUFFIX,mcoun.com
