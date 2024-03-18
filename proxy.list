@@ -43,7 +43,9 @@ DOMAIN-SUFFIX,nodejs.org
 # jquery
 DOMAIN-SUFFIX,jquery.com
 # vpn 
+## westData 
 DOMAIN-SUFFIX,fuqing.cz
+DOMAIN-SUFFIX,fuqing.ch
 # ====================================
 # 软件推荐的那个网站
 DOMAIN-SUFFIX,altapps.net
