@@ -46,6 +46,8 @@ DOMAIN-SUFFIX,jquery.com
 ## westData 
 DOMAIN-SUFFIX,fuqing.cz
 DOMAIN-SUFFIX,fuqing.ch
+# alacritty.org
+DOMAIN-SUFFIX,alacritty.org
 # ====================================
 # 软件推荐的那个网站
 DOMAIN-SUFFIX,altapps.net
