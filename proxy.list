@@ -48,6 +48,8 @@ DOMAIN-SUFFIX,fuqing.cz
 DOMAIN-SUFFIX,fuqing.ch
 # alacritty.org
 DOMAIN-SUFFIX,alacritty.org
+# golang 
+DOMAIN-SUFFIX,go.dev
 # ====================================
 # 软件推荐的那个网站
 DOMAIN-SUFFIX,altapps.net
