@@ -49,6 +49,8 @@ DOMAIN-SUFFIX,wd-gold.com
 DOMAIN-SUFFIX,alacritty.org
 # golang 
 DOMAIN-SUFFIX,go.dev
+# course 
+DOMAIN-SUFFIX,course.rs
 # ====================================
 # 软件推荐的那个网站
 DOMAIN-SUFFIX,altapps.net
