@@ -51,6 +51,8 @@ DOMAIN-SUFFIX,alacritty.org
 DOMAIN-SUFFIX,go.dev
 # course 
 DOMAIN-SUFFIX,course.rs
+# binance.com
+DOMAIN-SUFFIX,binance.com
 # ====================================
 # 软件推荐的那个网站
 DOMAIN-SUFFIX,altapps.net
