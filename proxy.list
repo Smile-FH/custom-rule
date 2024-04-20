@@ -60,6 +60,7 @@ DOMAIN-SUFFIX,figma.com
 DOMAIN-SUFFIX,altapps.net
 # Omni系列软件
 DOMAIN-SUFFIX,omnigroup.com
+DOMAIN-SUFFIX,omni-automation.com
 # Microsoft
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,live.com
