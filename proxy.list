@@ -98,6 +98,8 @@ DOMAIN-SUFFIX,bionic-reading.com
 DOMAIN-SUFFIX,openwrt.org
 # agilebits
 DOMAIN-SUFFIX,agilebits.com
+# wireshark
+DOMAIN-SUFFIX,wireshark.org
 # 娱乐====================================
 # 影视
 DOMAIN-SUFFIX,mcoun.com
