@@ -4,6 +4,8 @@ DOMAIN-KEYWORD,mihoyo
 # DOMAIN-SUFFIX,qq.com
 # 微博系
 # DOMAIN-KEYWORD,weibo
+# 博客平台
+# DOMAIN-SUFFIX,medium.com
 # 百度系
 # 阿里系
 DOMAIN-SUFFIX,taobao.com
@@ -92,7 +94,7 @@ DOMAIN-SUFFIX,fark.com
 DOMAIN-SUFFIX,popurls.com
 DOMAIN-SUFFIX,metafilter.com
 DOMAIN-SUFFIX,quora.com
-DOMAIN-SUFFIX,medium.com
+
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,hulu.com
 DOMAIN-SUFFIX,imgur.com
