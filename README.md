@@ -1,1 +1,2 @@
 # custom-rule
+OK
