@@ -1,5 +1,7 @@
 # 开发需要规则==========================
-# python 
+# btt
+DOMAIN-SUFFIX,folivora.ai
+# python
 DOMAIN-SUFFIX,python.org
 # rust
 DOMAIN-SUFFIX,rust-lang.org
