@@ -1,4 +1,6 @@
 # 开发需要规则==========================
+# trakt.tv
+DOMAIN-SUFFIX,trakt.tv
 # btt
 DOMAIN-SUFFIX,folivora.ai
 # python
