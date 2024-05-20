@@ -1,4 +1,6 @@
 # 开发需要规则==========================
+# spring
+DOMAIN-SUFFIX,spring.io
 # craft.me
 DOMAIN-KEYWORD,craft
 # trakt.tv
