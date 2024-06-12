@@ -101,7 +101,7 @@ DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,ted.com
 DOMAIN-SUFFIX,blogger.com
-DOMAIN-SUFFIX,imdb.com
+# DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,deviantart.com
 DOMAIN-SUFFIX,break.com
 DOMAIN-SUFFIX,collegehumor.com
