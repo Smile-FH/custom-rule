@@ -69,6 +69,7 @@ DOMAIN-SUFFIX,figma.com
 DOMAIN-SUFFIX,shared.oaifree.com
 DOMAIN-SUFFIX,cdn.oaifree.com
 # ====================================
+DOMAIN-SUFFIX,linux.do
 # 软件推荐的那个网站
 DOMAIN-SUFFIX,altapps.net
 # Omni系列软件
