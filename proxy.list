@@ -67,6 +67,7 @@ DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,figma.com
 # share AI
 DOMAIN-SUFFIX,shared.oaifree.com
+DOMAIN-SUFFIX,cdn.oaifree.com
 # ====================================
 # 软件推荐的那个网站
 DOMAIN-SUFFIX,altapps.net
