@@ -66,8 +66,7 @@ DOMAIN-SUFFIX,binance.com
 # figma
 DOMAIN-SUFFIX,figma.com
 # share AI
-# DOMAIN-SUFFIX,shared.oaifree.com
-# DOMAIN-SUFFIX,cdn.oaifree.com
+DOMAIN-SUFFIX,shared.oaifree.com
 # ====================================
 DOMAIN-SUFFIX,linux.do
 # 软件推荐的那个网站
