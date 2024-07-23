@@ -113,6 +113,8 @@ DOMAIN-SUFFIX,agilebits.com
 DOMAIN-SUFFIX,wireshark.org
 # mac 破解软件
 DOMAIN-SUFFIX,maked.app
+# lo.cafe
+DOMAIN-KEYWORD,lo.cafe
 # 娱乐====================================
 # 影视
 DOMAIN-SUFFIX,mcoun.com
