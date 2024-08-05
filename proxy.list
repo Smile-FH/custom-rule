@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,roadmap.sh
 DOMAIN-SUFFIX,gitlab.com
 # maven
 DOMAIN-SUFFIX,maven.apache.org
+DOMAIN-SUFFIX,mvnrepository.com
 # gradle
 DOMAIN-SUFFIX,services.gradle.org
 # docker
