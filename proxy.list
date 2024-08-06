@@ -7,9 +7,6 @@ DOMAIN-KEYWORD,craft
 DOMAIN-SUFFIX,trakt.tv
 # btt
 DOMAIN-SUFFIX,folivora.ai
-# python
-DOMAIN-KEYWORD,python
-DOMAIN-KEYWORD,pypi
 # rust
 DOMAIN-SUFFIX,rust-lang.org
 DOMAIN-SUFFIX,rustup.rs
