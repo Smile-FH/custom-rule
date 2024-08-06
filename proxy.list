@@ -8,7 +8,8 @@ DOMAIN-SUFFIX,trakt.tv
 # btt
 DOMAIN-SUFFIX,folivora.ai
 # python
-DOMAIN-SUFFIX,python.org
+DOMAIN-KEYWORD,python
+DOMAIN-KEYWORD,pypi
 # rust
 DOMAIN-SUFFIX,rust-lang.org
 DOMAIN-SUFFIX,rustup.rs
