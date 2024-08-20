@@ -36,7 +36,7 @@ DOMAIN-SUFFIX,mvnrepository.com
 # gradle
 DOMAIN-SUFFIX,services.gradle.org
 # docker
-DOMAIN-KEYWORD,docker
+DOMAIN-SUFFIX,docker.com
 # sdkman
 DOMAIN-SUFFIX,sdkman.io
 # leetcode 
