@@ -41,7 +41,7 @@ DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,sdkman.io
 # leetcode 
 DOMAIN-SUFFIX,leetcode.com
-# RapidAPI
+# RapidAPI,Cleanmymac
 # DOMAIN-SUFFIX,paw.cloud
 # apache.org
 DOMAIN-SUFFIX,apache.org
@@ -82,8 +82,6 @@ DOMAIN-KEYWORD,notion
 DOMAIN-SUFFIX,wikihow.com
 # Surge
 DOMAIN-SUFFIX,nssurge.com
-# Cleanmymac
-DOMAIN-SUFFIX,paw.cloud
 # CleanShot
 DOMAIN-SUFFIX,cleanshot.cloud
 # Brew
