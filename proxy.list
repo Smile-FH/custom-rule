@@ -42,7 +42,7 @@ DOMAIN-SUFFIX,sdkman.io
 # leetcode 
 DOMAIN-SUFFIX,leetcode.com
 # RapidAPI
-DOMAIN-SUFFIX,paw.cloud
+# DOMAIN-SUFFIX,paw.cloud
 # apache.org
 DOMAIN-SUFFIX,apache.org
 # nodejs
