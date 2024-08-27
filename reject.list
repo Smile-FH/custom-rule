@@ -8,7 +8,7 @@ DOMAIN-KEYWORD,mihoyo
 # DOMAIN-SUFFIX,medium.com
 # 百度系
 # 阿里系
-DOMAIN-SUFFIX,taobao.com
+# DOMAIN-SUFFIX,taobao.com
 # 拼多多 APP
 DOMAIN-SUFFIX,y4n.cn
 DOMAIN-SUFFIX,3p4.cn
@@ -62,7 +62,7 @@ DOMAIN-SUFFIX,yangkeduo.com
 DOMAIN-SUFFIX,wuaijd.com
 # 腾讯系
 # 京东系
-DOMAIN-SUFFIX,jd.com
+# DOMAIN-SUFFIX,jd.com
 # 抖音
 DOMAIN-SUFFIX,douyin.com
 # AGE
