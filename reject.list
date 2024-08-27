@@ -1,170 +1,24 @@
 # 米哈游
-DOMAIN-KEYWORD,mihoyo
-# 腾讯系
-# DOMAIN-SUFFIX,qq.com
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/HoYoverse/HoYoverse.list
 # 微博系
 # DOMAIN-KEYWORD,weibo
-# 博客平台
-# DOMAIN-SUFFIX,medium.com
-# 百度系
 # 阿里系
 # DOMAIN-SUFFIX,taobao.com
 # 拼多多 APP
-DOMAIN-SUFFIX,y4n.cn
-DOMAIN-SUFFIX,3p4.cn
-DOMAIN-SUFFIX,toutiaonanren.com
-DOMAIN-SUFFIX,ddlequ.com
-DOMAIN-SUFFIX,a7q.cn
-DOMAIN-SUFFIX,mobgroupbuy.com
-DOMAIN-SUFFIX,iextwork.com
-DOMAIN-SUFFIX,pinshangyin.com
-DOMAIN-SUFFIX,pmoremore.com
-DOMAIN-SUFFIX,duoduotuanzhang.com
-DOMAIN-SUFFIX,7pd.cn
-DOMAIN-SUFFIX,maimaixiangce.com
-DOMAIN-SUFFIX,fanuchdf.com
-DOMAIN-SUFFIX,pddim.com
-DOMAIN-SUFFIX,ddmcsup.com
-DOMAIN-SUFFIX,u7x.cn
-DOMAIN-SUFFIX,4qh.cn
-DOMAIN-SUFFIX,ishangtong.com
-DOMAIN-SUFFIX,moremorep.com
-DOMAIN-SUFFIX,pddcdn.com
-DOMAIN-SUFFIX,pinduoduozp.com
-DOMAIN-SUFFIX,pinduoduo.com
-DOMAIN-SUFFIX,yqphh.com
-DOMAIN-SUFFIX,smartagricompetition.com
-DOMAIN-SUFFIX,pin18pin.com
-DOMAIN-SUFFIX,w6r.cn
-DOMAIN-SUFFIX,4a8.cn
-DOMAIN-SUFFIX,moremorepin.com
-DOMAIN-SUFFIX,hutaojie.com
-DOMAIN-SUFFIX,y2g.cn
-DOMAIN-SUFFIX,pddugc.com
-DOMAIN-SUFFIX,maimaixiangce.net
-DOMAIN-SUFFIX,4a9.cn
-DOMAIN-SUFFIX,yiqixiegushi.com
-DOMAIN-SUFFIX,srgnmsrg.com
-DOMAIN-SUFFIX,vgunxpkt.com
-DOMAIN-SUFFIX,pddpic.com
-DOMAIN-SUFFIX,4pn.cn
-DOMAIN-SUFFIX,4t7.cn
-DOMAIN-SUFFIX,l4h.cn
-DOMAIN-SUFFIX,maimaixiangce.cn
-DOMAIN-SUFFIX,8s4.cn
-DOMAIN-SUFFIX,tizijie.com
-DOMAIN-SUFFIX,duoduotuanzhang.cn
-DOMAIN-SUFFIX,nvgnv.com
-DOMAIN-SUFFIX,mmimimia.com
-DOMAIN-SUFFIX,pddg.net
-DOMAIN-SUFFIX,pinduoduo.net
-DOMAIN-SUFFIX,yangkeduo.com
-DOMAIN-SUFFIX,wuaijd.com
-# 腾讯系
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Pinduoduo/Pinduoduo.list
 # 京东系
-# DOMAIN-SUFFIX,jd.com
+# RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/JingDong/JingDong.list
 # 抖音
-DOMAIN-SUFFIX,douyin.com
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/DouYin/DouYin.list
 # AGE
 DOMAIN-SUFFIX,agemys.net
+# 小红书
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/XiaoHongShu/XiaoHongShu.list
 # 嘀哩嘀哩
 DOMAIN-SUFFIX,dilidili9.com
 #小说
 DOMAIN-SUFFIX,xs26.com
 DOMAIN-SUFFIX,58xs8.com
 DOMAIN-SUFFIX,xbiquge.so
-#
-DOMAIN-SUFFIX,mail.yahoo.com
-DOMAIN-SUFFIX,facebook.com
-DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,pinterest.com
-DOMAIN-SUFFIX,tumblr.com
-DOMAIN-SUFFIX,instagram.com
-DOMAIN-SUFFIX,vine.co
-DOMAIN-SUFFIX,flickr.com
-DOMAIN-SUFFIX,meetup.com
-DOMAIN-SUFFIX,ask.fm
-DOMAIN-SUFFIX,news.ycombinator.com
-DOMAIN-SUFFIX,slashdot.org
-DOMAIN-SUFFIX,reddit.com
-DOMAIN-SUFFIX,digg.com
-DOMAIN-SUFFIX,techmeme.com
-DOMAIN-SUFFIX,producthunt.com
-DOMAIN-SUFFIX,fark.com
-DOMAIN-SUFFIX,popurls.com
-DOMAIN-SUFFIX,metafilter.com
-DOMAIN-SUFFIX,quora.com
-
-DOMAIN-SUFFIX,netflix.com
-DOMAIN-SUFFIX,hulu.com
-DOMAIN-SUFFIX,imgur.com
-DOMAIN-SUFFIX,vimeo.com
-DOMAIN-SUFFIX,ted.com
-DOMAIN-SUFFIX,blogger.com
-# DOMAIN-SUFFIX,imdb.com
-DOMAIN-SUFFIX,deviantart.com
-DOMAIN-SUFFIX,break.com
-DOMAIN-SUFFIX,collegehumor.com
-DOMAIN-SUFFIX,funnyordie.com
-DOMAIN-SUFFIX,liveleak.com
-DOMAIN-SUFFIX,twitch.tv
-DOMAIN-SUFFIX,soundcloud.com
-DOMAIN-SUFFIX,coinbase.com
-DOMAIN-SUFFIX,blockchain.info
-DOMAIN-SUFFIX,coinmarketcap.com
-DOMAIN-SUFFIX,ebay.com
-DOMAIN-SUFFIX,craigslist.org
-DOMAIN-SUFFIX,etsy.com
-DOMAIN-SUFFIX,amazon.com
-DOMAIN-SUFFIX,techcrunch.com
-DOMAIN-SUFFIX,mashable.com
-DOMAIN-SUFFIX,engadget.com
-DOMAIN-SUFFIX,gizmodo.com
-DOMAIN-SUFFIX,gigaom.com
-DOMAIN-SUFFIX,boingboing.net
-DOMAIN-SUFFIX,wired.com
-DOMAIN-SUFFIX,theverge.com
-DOMAIN-SUFFIX,lifehacker.com
-DOMAIN-SUFFIX,readwrite.com
-DOMAIN-SUFFIX,recode.net
-DOMAIN-SUFFIX,arstechnica.com
-DOMAIN-SUFFIX,macrumors.com
-DOMAIN-SUFFIX,tomshardware.com
-DOMAIN-SUFFIX,thenextweb.com
-DOMAIN-SUFFIX,9to5mac.com
-DOMAIN-SUFFIX,zdnet.com
-DOMAIN-SUFFIX,venturebeat.com
-DOMAIN-SUFFIX,bbc.com
-DOMAIN-SUFFIX,forbes.com
-DOMAIN-SUFFIX,economist.com
-DOMAIN-SUFFIX,nbcnews.com
-DOMAIN-SUFFIX,yahoo.com
-DOMAIN-SUFFIX,nytimes.com
-DOMAIN-SUFFIX,bloomberg.com
-DOMAIN-SUFFIX,usatoday.com
-DOMAIN-SUFFIX,washingtonpost.com
-DOMAIN-SUFFIX,theguardian.com
-DOMAIN-SUFFIX,npr.org
-DOMAIN-SUFFIX,wsj.com
-DOMAIN-SUFFIX,time.com
-DOMAIN-SUFFIX,news.google.com
-DOMAIN-SUFFIX,cnet.com
-DOMAIN-SUFFIX,cnbc.com
-DOMAIN-SUFFIX,bleacherreport.com
-DOMAIN-SUFFIX,espn.com
-DOMAIN-SUFFIX,foxsports.com
-DOMAIN-SUFFIX,cbssports.com
-DOMAIN-SUFFIX,mlb.com
-DOMAIN-SUFFIX,nfl.com
-DOMAIN-SUFFIX,nhl.com
-DOMAIN-SUFFIX,nba.com
-DOMAIN-SUFFIX,foxnews.com
-DOMAIN-SUFFIX,cnn.com
-DOMAIN-SUFFIX,msnbc.com
-DOMAIN-SUFFIX,huffingtonpost.com
-DOMAIN-SUFFIX,businessinsider.com
-DOMAIN-SUFFIX,buzzfeed.com
-DOMAIN-SUFFIX,theonion.com
-DOMAIN-SUFFIX,cracked.com
-DOMAIN-SUFFIX,tmz.com
-DOMAIN-SUFFIX,vice.com
+# 广告
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Advertising/Advertising.list
