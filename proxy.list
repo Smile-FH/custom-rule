@@ -109,7 +109,7 @@ DOMAIN-SUFFIX,agilebits.com
 # wireshark
 DOMAIN-SUFFIX,wireshark.org
 # mac 破解软件
-DOMAIN-SUFFIX,maked.app
+DOMAIN-SUFFIX,macked.app
 # lo.cafe
 DOMAIN-KEYWORD,lo.cafe
 # ubuntu
