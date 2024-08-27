@@ -1,19 +1,19 @@
 # 米哈游
-RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/HoYoverse/HoYoverse.list
+RULE-SET,https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Shadowrocket/HoYoverse/HoYoverse.list
 # 微博系
 # DOMAIN-KEYWORD,weibo
 # 阿里系
 # DOMAIN-SUFFIX,taobao.com
 # 拼多多 APP
-RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Pinduoduo/Pinduoduo.list
+RULE-SET,https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Shadowrocket/Pinduoduo/Pinduoduo.list
 # 京东系
-# RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/JingDong/JingDong.list
+# RULE-SET,https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Shadowrocket/JingDong/JingDong.list
 # 抖音
-RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/DouYin/DouYin.list
+RULE-SET,https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Shadowrocket/DouYin/DouYin.list
 # AGE
 DOMAIN-SUFFIX,agemys.net
 # 小红书
-RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/XiaoHongShu/XiaoHongShu.list
+RULE-SET,https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Shadowrocket/XiaoHongShu/XiaoHongShu.list
 # 嘀哩嘀哩
 DOMAIN-SUFFIX,dilidili9.com
 #小说
@@ -21,4 +21,4 @@ DOMAIN-SUFFIX,xs26.com
 DOMAIN-SUFFIX,58xs8.com
 DOMAIN-SUFFIX,xbiquge.so
 # 广告
-RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Advertising/Advertising.list
+RULE-SET,https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Shadowrocket/Advertising/Advertising.list
