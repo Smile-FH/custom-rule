@@ -71,8 +71,7 @@ DOMAIN-SUFFIX,linux.do
 # 软件推荐的那个网站
 DOMAIN-SUFFIX,altapps.net
 # Omni系列软件
-DOMAIN-SUFFIX,omnigroup.com
-DOMAIN-SUFFIX,omni-automation.com
+DOMAIN-KEYWORD,omnigroup
 # Microsoft
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,live.com
