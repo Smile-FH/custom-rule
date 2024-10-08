@@ -3,6 +3,8 @@
 DOMAIN-SUFFIX,spring.io
 # craft.me
 DOMAIN-KEYWORD,craft
+# rsshub
+DOMAIN-KEYWORD,rsshub
 # trakt.tv
 DOMAIN-SUFFIX,trakt.tv
 # btt
