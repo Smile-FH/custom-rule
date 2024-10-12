@@ -3,6 +3,8 @@
 DOMAIN-SUFFIX,spring.io
 # craft.me
 DOMAIN-KEYWORD,craft
+# api.deeplx
+DOMAIN-SUFFIX,deeplx.org
 # rsshub
 DOMAIN-KEYWORD,rsshub
 # trakt.tv
