@@ -1,4 +1,6 @@
 # 开发需要规则==========================
+# ansible.com
+DOMAIN-SUFFIX,ansible.com
 # spring
 DOMAIN-SUFFIX,spring.io
 # craft.me
