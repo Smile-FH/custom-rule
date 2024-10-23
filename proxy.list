@@ -5,6 +5,8 @@ DOMAIN-SUFFIX,ansible.com
 DOMAIN-SUFFIX,spring.io
 # craft.me
 DOMAIN-KEYWORD,craft
+# z-library
+DOMAIN-KEYWORD,z-lib
 # api.deeplx
 DOMAIN-SUFFIX,deeplx.org
 # rsshub
