@@ -3,6 +3,8 @@
 DOMAIN-SUFFIX,ansible.com
 # spring
 DOMAIN-SUFFIX,spring.io
+# railway.app
+DOMAIN-SUFFIX,railway.app
 # follow rss 
 DOMAIN-SUFFIX,follow.is
 # infuse
