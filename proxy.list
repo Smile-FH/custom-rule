@@ -1,4 +1,6 @@
 # 开发需要规则==========================
+# iterm
+DOMAIN-SUFFIX,iterm2.com
 # ansible.com
 DOMAIN-SUFFIX,ansible.com
 # spring
