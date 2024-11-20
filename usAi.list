@@ -1,3 +1,5 @@
 # 开发需要规则==========================
 # jetbrainsAI
 DOMAIN-KEYWORD,jetbrains
+# 
+DOMAIN-SUFFIX,typingcloud.com
