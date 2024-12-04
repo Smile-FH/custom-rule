@@ -1,4 +1,6 @@
 # 开发需要规则==========================
+# tableplus
+DOMAIN-SUFFIX,tableplus.com
 # iterm
 DOMAIN-SUFFIX,iterm2.com
 # ansible.com
