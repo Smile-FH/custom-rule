@@ -1,4 +1,6 @@
 # 开发需要规则==========================
+# typingcloud
+DOMAIN-SUFFIX,typingcloud.com
 # tableplus
 DOMAIN-SUFFIX,tableplus.com
 # iterm
