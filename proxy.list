@@ -1,4 +1,6 @@
 # 开发需要规则==========================
+# pnpm 官网
+DOMAIN-SUFFIX,pnpm.io
 # typingcloud
 DOMAIN-SUFFIX,typingcloud.com
 # tableplus
