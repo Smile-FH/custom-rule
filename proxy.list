@@ -1,4 +1,6 @@
 # 开发需要规则==========================
+# asdf 官网
+DOMAIN-SUFFIX,asdf-vm.com
 # pnpm 官网
 DOMAIN-SUFFIX,pnpm.io
 # typingcloud
