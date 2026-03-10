@@ -65,21 +65,12 @@ DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,sdkman.io
 # leetcode 
 DOMAIN-SUFFIX,leetcode.com
-# RapidAPI,Cleanmymac
-# DOMAIN-SUFFIX,paw.cloud
 # apache.org
 DOMAIN-SUFFIX,apache.org
 # nodejs
 DOMAIN-SUFFIX,nodejs.org
 # jquery
 DOMAIN-SUFFIX,jquery.com
-# vpn 
-## westData 
-DOMAIN-SUFFIX,fuqing.cz
-DOMAIN-SUFFIX,fuqing.ch
-DOMAIN-SUFFIX,wd-gold.com
-# alacritty.org
-DOMAIN-SUFFIX,alacritty.org
 # golang 
 DOMAIN-SUFFIX,go.dev
 # course 
@@ -140,14 +131,7 @@ DOMAIN-KEYWORD,ubuntu
 # 娱乐====================================
 # 影视
 DOMAIN-SUFFIX,mcoun.com
-# 游戏
-DOMAIN-KEYWORD,steam
-# money
-DOMAIN-SUFFIX,wiz.money
-DOMAIN-SUFFIX,syncbits.com
-# write
-DOMAIN-SUFFIX,ulysses.app
-# macrumors
+# macrumors 壁纸网站
 DOMAIN-SUFFIX,macrumors.com
 # pockyt.io 礼品卡
 DOMAIN-SUFFIX,pockyt.io
@@ -155,8 +139,6 @@ DOMAIN-SUFFIX,pockyt.io
 DOMAIN-SUFFIX,tableconvert.com
 # 新闻
 DOMAIN-SUFFIX,tophub.today
-# 海外虚拟卡
-DOMAIN-SUFFIX,bewildcard.com
 # 合租
 DOMAIN-SUFFIX,hezu.wiki
 # mindnode 思维导图软件
@@ -167,3 +149,5 @@ DOMAIN-SUFFIX,clash.wiki
 DOMAIN-SUFFIX,oaipro.com
 # openwebui 
 DOMAIN-SUFFIX,openwebui.com
+# 苹果播客
+DOMAIN-SUFFIX,podcasts.apple.com
