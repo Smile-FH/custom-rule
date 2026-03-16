@@ -1,4 +1,6 @@
 # 开发需要规则==========================
+# 运维工具那个网站
+DOMAIN-SUFFIX,royalapps.com
 # asdf 官网
 DOMAIN-SUFFIX,asdf-vm.com
 # pnpm 官网
