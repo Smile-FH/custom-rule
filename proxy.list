@@ -1,4 +1,10 @@
 # 开发需要规则==========================
+DOMAIN-SUFFIX,layui.dev
+DOMAIN-SUFFIX,cheapcharts.com
+DOMAIN-SUFFIX,gold.com
+DOMAIN-SUFFIX,grafana.com
+DOMAIN-SUFFIX,philips-hue.com
+DOMAIN-SUFFIX,tampermonkey.net
 # 运维工具那个网站
 DOMAIN-SUFFIX,royalapps.com
 # asdf 官网
