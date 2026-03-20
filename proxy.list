@@ -119,6 +119,7 @@ DOMAIN-SUFFIX,sms-activate.org
 DOMAIN-SUFFIX,vmware.com
 # 1Password
 DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,pwnedpasswords.com
 # codepen
 DOMAIN-SUFFIX,codepen.io
 # reddit.com
