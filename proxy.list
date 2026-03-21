@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,alfred.app
 DOMAIN-SUFFIX,alfredapp.com
 # gitbook
 DOMAIN-SUFFIX,gitbook.io
+DOMAIN-SUFFIX,ghcr.io
 # nginx
 DOMAIN-SUFFIX,nginx.com
 # develop-k8s
