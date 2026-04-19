@@ -10,6 +10,8 @@ DOMAIN-SUFFIX,jdx.dev
 DOMAIN-SUFFIX,sigstore.dev
 DOMAIN-SUFFIX,1passwordservices.com
 DOMAIN-SUFFIX,clawhub.ai
+# github 镜像加速地址
+DOMAIN-SUFFIX,gh-proxy.com
 # 运维工具那个网站
 DOMAIN-SUFFIX,royalapps.com
 # asdf 官网
