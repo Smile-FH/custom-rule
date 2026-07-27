@@ -150,3 +150,6 @@ DOMAIN-SUFFIX,openwebui.com
 DOMAIN-SUFFIX,podcasts.apple.com
 # 小火箭模块下载
 DOMAIN-SUFFIX,yfamilys.com
+# 剪辑工作软件
+# Davinci 达芬奇
+DOMAIN-KEYWORD,blackmagic,PROXY
